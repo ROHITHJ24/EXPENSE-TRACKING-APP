@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A production-ready MERN personal finance application to track income, expenses, budgets, safe-to-spend insights, and split group expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
